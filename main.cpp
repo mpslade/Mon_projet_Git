@@ -1,8 +1,8 @@
 /* Program showing "Hello World" */
 
-#include<stdio.h>
+#include<verbose.hpp>
 
 main()
 {
-    printf("Hello World");
+    show("Hello World");
 }
